@@ -1,0 +1,14 @@
+---
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  name: tc3292
+  tags: []
+  description: test
+  annotations:
+    github.com/project-slug: tchinf5/tchinf53292
+
+spec:
+  type: service
+  owner: group:cedi
+  lifecycle: experimental
